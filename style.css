@@ -10,12 +10,16 @@ body {
   line-height: 1.6;
   color: #333;
 }
+#heading1{
+  font-size: 3rem;
+}
 .hero {
   height: 100vh;
   background-image: url('https://i.postimg.cc/zXd49g86/Cyan-And-Blue-Colorful-Illustrative-Coding-You-Tube-Thumbnail-1.png');
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
+  margin-bottom: 20px;
 }
 
 .hero::before {
