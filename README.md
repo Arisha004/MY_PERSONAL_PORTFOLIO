@@ -72,6 +72,8 @@ Manages the functionality, such as button clicks, and provides interactivity.
 
 ### JSON File (data.json):
 Stores data for different sections (e.g., project details, skills, etc.) in a structured format that can be dynamically loaded and displayed on the website.
+I have used PostImage for free image hosting to reduce file sizes, which is a more efficient approach for faster website loading and better performance.
+
 
 ## Features
 
@@ -82,13 +84,11 @@ Stores data for different sections (e.g., project details, skills, etc.) in a st
 
 ## Future Enhancements
 
-- Add a contact form to the website to allow visitors to reach out to me directly.
 - Implement additional animations for smoother transitions and interactivity.
 - Improve the performance and accessibility of the website by optimizing images and ensuring better keyboard navigation.
 
 ## Acknowledgements
-
-- I would like to thank [insert any references or inspiration sources here].
+I would like to thank [W3Schools, Mozilla Developer Network (MDN), and freeCodeCamp for their comprehensive tutorials and documentation on HTML, CSS, JavaScript, and JSON. Special thanks to Stack Overflow for the community support and solutions to coding challenges
 - Special thanks to Devsinz for providing me with the opportunity to showcase my skills through this project.
 
 ## References
